@@ -14,7 +14,6 @@ __pycache__/
 .venv/
 venv/
 env/
-.env
 
 # Logs
 *.log
@@ -188,3 +187,5 @@ cython_debug/
 /.continue/
 /local_dev/.env
 /local_dev/
+.env
+!.env.example
